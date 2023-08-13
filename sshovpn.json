@@ -1,18 +1,18 @@
 {
 
-//เวอร์ชั่นไว้สำหรับอัพเดทหากมีการอัพเดทต้องเปลี่ยนตัวเลขให้เยอะกว่าเดิม
+
 
 "Version":"1.1",
 
-//ลิ้งค์สำหรับอัพเดทเซิร์ฟเวอร์
 
-"Url":"https://github.com/zawmoewin1/openvpn.json/raw/main/ssh.zip" ,
+
+"Url":"https://github.com/zawmoewin1/openvpn.json/raw/main/zawmoewin.ovpn%5B1%5D.zip" ,
 
 "Changelog":"
 
 မ ဂင်္လာပါ 
 
- TRUE & DTAC 5ဖိုင်ထည့်ပေးထာတယ်
+ TRUE & DTAC 1ဖိုင်ထည့်ပေးထာတယ်
 
  ဖိုင်ကုန်ရက်‌ေတွးပါ
 
@@ -20,7 +20,7 @@
 
 ",
 
-//ไม่ต้องยุ่งด้านล่าง
+
 
 "latestVersion": "1.0.0",
 
