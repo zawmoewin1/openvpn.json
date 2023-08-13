@@ -1,9 +1,10 @@
 {
 // version for updating, if there is an update, need to change more numbers than before
-"Version":"1.3",
+"Version":"1.1",
 //link for server update
-"Url":"https://github.com/zawmoewin1/openvpn.json/raw/main/zaw1%5B1%5D.zip" ,
+"Url":"https://github.com/zawmoewin1/openvpn.json/raw/main/ZAWMOEWIN.rarp" ,
 "Changelog":"ကြိုက်တာရေးထည့်ပါ
+ 12FILE 08/08/2023
 ",
 // don't mess with the bottom
 "latestVersion": "1.0.0",
